@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Assignment 2 - Q-Learning: Tabular & Deep
 
 This repository contains my implementation for Assignment 2 on Deep Q-Learning (DQN) in CartPole.
@@ -53,3 +54,6 @@ results/ablation_network_size.png
 results/ablation_update_ratio.png
 
 
+=======
+# reinforcement-learning-2
+>>>>>>> 47cb233cfb94fd607b919ce4f914a882de3f8bae
