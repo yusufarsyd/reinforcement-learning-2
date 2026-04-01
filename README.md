@@ -43,14 +43,3 @@ This generates: results/compare_configs.png
 
 3. Run the ablation study
 python ablation.py
-
-This generates the ablation plots, such as:
-
-results/ablation_learning_rate.png
-results/ablation_exploration.png
-results/ablation_network_size.png
-results/ablation_update_ratio.png
-
-
-# reinforcement-learning-2
->>>>>>> 47cb233cfb94fd607b919ce4f914a882de3f8bae
