@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Assignment 2 - Q-Learning: Tabular & Deep
 
 This repository contains my implementation for Assignment 2 on Deep Q-Learning (DQN) in CartPole.
@@ -29,7 +28,6 @@ The project includes:
 ## Installation
 Create and activate a Python environment if desired, then install the required packages:
 
-```bash
 pip install -r requirements.txt
 
 ## How to Run
@@ -54,6 +52,5 @@ results/ablation_network_size.png
 results/ablation_update_ratio.png
 
 
-=======
 # reinforcement-learning-2
 >>>>>>> 47cb233cfb94fd607b919ce4f914a882de3f8bae
